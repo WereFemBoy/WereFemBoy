@@ -1,7 +1,7 @@
 # WereFemBoy
 A web game like werewolf, but nsfw.
 
-English|[简体中文]()
+English|[简体中文](./README_SC.md)
 ## Introduction 
 
 Impressed by a message from the telegram group ArchLinux-CN-NSFW, an idea of a web game pop up.
