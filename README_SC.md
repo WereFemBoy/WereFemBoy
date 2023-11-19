@@ -4,7 +4,7 @@
 
 [English](./README.md)|简体中文
 
-# 介绍
+## 介绍
 
 受到电报群ArchLinux-CN-NSFW中的一条信息的启发，我产生了一个网络游戏的想法。
 
