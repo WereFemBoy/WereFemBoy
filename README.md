@@ -1,3 +1,5 @@
+![](./logo/logo.png)
+
 # WereFemBoy
 A web game like werewolf, but nsfw.
 
