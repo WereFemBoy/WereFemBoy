@@ -6,7 +6,7 @@ A web game like werewolf, but nsfw.
 English|[简体中文](./README_SC.md)
 ## Introduction 
 
-Impressed by a message from the telegram group ArchLinux-CN-NSFW, an idea of a web game pop up.
+Impressed by a message from the telegram group ArchLinux-CN-NSFW, an idea of a web game pops up.
 
 Many people knows the [Mafia (party game)](https://en.wikipedia.org/wiki/Mafia_(party_game)), a Russian social deduction game created by Dimitry Davidoff in 1986. However, a new idea with NSFW to make a similar game was created.
 
@@ -14,7 +14,7 @@ There are 12 players as "girls", but 3 of them are pretended by femboy and one o
 
 Before a game started, the system will select the idenfication of players randomly, then allows them to take actions by turn. Each actions made by players will be accepted and responded by the system on server.
 
-Also, there are "Day" and "Night" to control the actions and results, players can only take acations in turn at "Night" and know the results of game at "Day". This will be taken in control by the system on server automatically.
+Also, there are "Day" and "Night" to control the actions and results, players can only take actions in turn at "Night" and know the results of game at "Day". This will be taken in control by the system on server automatically.
 
 Actions of players with different indenfication are different:
 
